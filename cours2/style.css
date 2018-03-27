@@ -1,0 +1,43 @@
+/* style.css */
+body{
+  background: #fff;
+  color: #000;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+}
+nav{
+	color:#FF99CC;
+	font-size : 1em;
+	font-family: 'Roboto', sans-serif;
+	width : 200px;
+}
+
+nav:hover {
+	color:#FF99CC;
+	font-size : 1em;
+	font-family: 'Roboto', sans-serif;
+	background : #0066CC;
+}
+
+h1{
+  font-family: 'Roboto', sans-serif;
+  color: #0066CC;
+  font-weight: lighter;
+  font-size: 18px;
+}
+#title{
+	font-size : 50px;
+}
+h2 {
+  font-family: 'Roboto', sans-serif;
+  color: pink;
+  font-weight: lighter;
+  font-size: 16px;
+}
+a {
+  color: pink;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
