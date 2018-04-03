@@ -4,14 +4,14 @@ body{
   background: #fff;
   color: #000; 
   font-size: 16px;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Raleway', sans-serif;
   margin:0;
 }
 
 nav{
   display:inline;
   font-size: 1em;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Raleway', sans-serif;
 } 
 
 nav li {
