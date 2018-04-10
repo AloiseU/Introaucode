@@ -25,7 +25,7 @@ nav ul {
 }
 
 #logo{
-  color: rgb(225, 0, 152);
+  color: rgb(153, 122, 141);
   font-size: 35px;
   font-family: 'Pacifico', cursive;
   float: left;
@@ -90,8 +90,9 @@ a:hover {
   top:1px;
 }
 
- .feature {border: 5px solid #000099;
-  background-color: #3399CC;
+ .feature,.defi{
+  border: 1px solid #F2F2F2;
+  background: #FAFAFA;
   margin: 15px;
   padding: 15px 0;
   text-align: center;
@@ -105,4 +106,15 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+#welcome{
+  background-color: #C72C48;
+  text-align: center;
+  padding: 50px;
+  color: white;
+}
+
+#welcome h4{
+ font-size: 52px;
 }
