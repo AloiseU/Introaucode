@@ -97,6 +97,9 @@ a:hover {
   padding: 15px 0;
   text-align: center;
   width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
  #apropos{
