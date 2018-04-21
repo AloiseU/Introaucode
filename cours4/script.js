@@ -15,7 +15,7 @@ function welcome() {
 };
 function loadChallenges() {
   $.ajax(
-        {url : 'https://api.myjson.com/bins/wywb7',
+        {url : 'https://api.myjson.com/bins/7fegj',
         type: 'GET',
         dataType: 'json'} 
   )
