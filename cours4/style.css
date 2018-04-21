@@ -25,7 +25,7 @@ nav ul {
 }
 
 #logo{
-  color: rgb(153, 122, 141);
+  color: rgb(121, 248, 248);
   font-size: 35px;
   font-family: 'Pacifico', cursive;
   float: left;
@@ -34,28 +34,30 @@ nav ul {
 
 h1{
   font-family: 'Roboto', sans-serif;
-  color:  #41A3C0; 
+  background-color: rgba(0, 0, 0, 0);
+  background-size: cover;
+  padding: 150px;
   font-weight: bolder;
   font-size: 2em;
 }
 
 h2 {
   font-family: 'Roboto', sans-serif;
-  color: #3b4563;
+  color: rgb(49, 140, 231);
   font-weight: lighter;
   font-size: 1.5em;
 }
 
 p{
-  color: rgb(225, 0, 152);
+  color: rgb(116, 208, 241);
 }
 
 a { 
-  color: #29324B;
+  color: rgb(116, 208, 241);
 }
 
 .red {
-  color: pink;
+  color: rgb(116, 208, 241);
 }
 
 a:hover {
@@ -65,7 +67,7 @@ a:hover {
 
 /* Mis en forme de la baseline */
 #baseline{
-  background-color: #41A3C0;
+  background-image: url("Plage-des-Raisins-Clairs_hero1920x1280.jpg");
   text-align: center;
   background-size: cover;
   padding: 150px;
@@ -92,9 +94,9 @@ a:hover {
 
  .feature,.defi{
   border: 1px solid #F2F2F2;
-  background: #E9C9B1;
+  background: rgb(0, 51, 102);
   margin: 15px;
-  padding: 15px 0;
+  padding: 15px;
   text-align: center;
   width: 400px;
   display: flex;
@@ -105,14 +107,14 @@ a:hover {
  #apropos{
   margin: 0 auto;
   width: 80%;
-  background-color: pink;
+  background-color:rgb(116, 208, 241);
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
 #welcome{
-  background-color: #C72C48;
+  background-color: rgb(119, 181, 254);
   text-align: center;
   padding: 50px;
   color: white;
@@ -121,3 +123,5 @@ a:hover {
 #welcome h4{
  font-size: 52px;
 }
+
+
